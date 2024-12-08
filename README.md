@@ -1,2 +1,2 @@
-# Machine-Learning-
+# Machine-Learning
 Репозиторій для виконання домашніх завдань
